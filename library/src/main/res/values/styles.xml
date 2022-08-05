@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="SlideAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_enter</item>
+        <item name="android:windowExitAnimation">@anim/slide_exit</item>
+    </style>
+</resources>
